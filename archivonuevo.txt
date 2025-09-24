@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Modificaaaandoooo vamonos que nos vamos
+=======
+Un archivo nuevo modificado
+>>>>>>> prueba1
